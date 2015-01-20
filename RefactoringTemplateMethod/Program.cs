@@ -1,16 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using RefactoringTemplateMethod.Original;
+﻿using RefactoringTemplateMethod.Original;
+using System;
 
 namespace RefactoringTemplateMethod
 {
     class Program
     {
         static void Main(string[] args)
-        {            
+        {
             // classes originais
             var prestacao = new Prestacao();
             var valor = prestacao.Calcular(10000m, 100);
@@ -38,6 +34,7 @@ namespace RefactoringTemplateMethod
             valor = prestacaoEspecial.Calcular(10000m, 100);
             Console.WriteLine("Valor calculado: {0:C}", valor);
 
+            Console.ReadKey();
         }
     }
 }
