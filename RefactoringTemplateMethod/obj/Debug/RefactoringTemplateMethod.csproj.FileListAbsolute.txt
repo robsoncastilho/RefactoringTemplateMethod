@@ -1,6 +1,0 @@
-D:\Trabalho\Comunidade\Blog\Codigo-Fonte\RefactoringTemplateMethod\RefactoringTemplateMethod\bin\Debug\RefactoringTemplateMethod.exe.config
-D:\Trabalho\Comunidade\Blog\Codigo-Fonte\RefactoringTemplateMethod\RefactoringTemplateMethod\obj\Debug\RefactoringTemplateMethod.csprojResolveAssemblyReference.cache
-D:\Trabalho\Comunidade\Blog\Codigo-Fonte\RefactoringTemplateMethod\RefactoringTemplateMethod\bin\Debug\RefactoringTemplateMethod.exe
-D:\Trabalho\Comunidade\Blog\Codigo-Fonte\RefactoringTemplateMethod\RefactoringTemplateMethod\bin\Debug\RefactoringTemplateMethod.pdb
-D:\Trabalho\Comunidade\Blog\Codigo-Fonte\RefactoringTemplateMethod\RefactoringTemplateMethod\obj\Debug\RefactoringTemplateMethod.exe
-D:\Trabalho\Comunidade\Blog\Codigo-Fonte\RefactoringTemplateMethod\RefactoringTemplateMethod\obj\Debug\RefactoringTemplateMethod.pdb
